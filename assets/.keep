@@ -1,1 +1,9 @@
-
+assets/
+  audio/
+    arcade-loop.mp3
+    select.wav
+    coin.wav
+  img/
+    sky-punch.png
+    redblitz-poster.png
+    aquanova-cover.png
